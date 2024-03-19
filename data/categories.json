@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0",
+    "name": "All News"
+  },
+  {
+    "id": "1",
+    "name": "Technology"
+  },
+  {
+    "id": "2",
+    "name": "Sports"
+  },
+  {
+    "id": "3",
+    "name": "Culture"
+  },
+  {
+    "id": "4",
+    "name": "Entertainment"
+  }
+]
