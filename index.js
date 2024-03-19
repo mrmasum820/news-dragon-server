@@ -5,9 +5,6 @@ const cors = require("cors");
 require("dotenv").config();
 const port = process.env.PORT || 5000;
 
-const categories = require("./data/categories.json");
-const news = require("./data/news.json");
-
 //middleware
 app.use(cors());
 app.use(express.json());
