@@ -1,22 +1,22 @@
 [
   {
     "id": "0",
-    "name": "All News"
+    "title": "All News"
   },
   {
     "id": "1",
-    "name": "Technology"
+    "title": "Technology"
   },
   {
     "id": "2",
-    "name": "Sports"
+    "title": "Sports"
   },
   {
     "id": "3",
-    "name": "Culture"
+    "title": "Culture"
   },
   {
     "id": "4",
-    "name": "Entertainment"
+    "title": "Entertainment"
   }
 ]
